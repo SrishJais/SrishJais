@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Srishti Jaiswal</h1>
 <h3 align="center">FlipkartGrid 4.0 semifinalist | Ex-Martian intern @Persistent| Frontend(React+firebase)enthusiast|150+DSA @leetcode@gfg@CS</h3>
 
-- **TECHNICAL SKILLS:** • **Web Technologies**: Javascript , HTML, CSS • ** Web Libraries/framework**: ReactJS, Bootstrap, Material UI • **Back-End as a Service (BaaS)**: Firebase • **Programming Languages**: C , C++, Javascript • **Coding:** Solved 100+ DSA questions on multiple online platforms including Leetcode, GeeksForGeeks, Code Studio.
+- **TECHNICAL SKILLS:**
+- • **Web Technologies**: Javascript , HTML, CSS • ** Web Libraries/framework**: ReactJS, Bootstrap, Material UI
+- • **Back-End as a Service (BaaS)**: Firebase
+- • **Programming Languages**: C , C++, Javascript
+- • **Coding:** Solved 100+ DSA questions on multiple online platforms including Leetcode, GeeksForGeeks, Code Studio.
 
 - **SOFT SKILLS:** Self-motivated person having positive and never give up attitude,good team player**
 
