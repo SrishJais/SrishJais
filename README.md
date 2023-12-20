@@ -1,4 +1,5 @@
-![banner](https://github.com/SrishJais/SrishJais/blob/main/banner.jpg)
+
+<img align="right" alt="Coding" width="400" src="https://github.com/SrishJais/SrishJais/blob/main/banner.jpg">
 <h1 align="center">Hi 👋, I'm Srishti Jaiswal</h1>
 <h3 align="center">FlipkartGrid 4.0 semifinalist | Ex-Martian intern @Persistent| Frontend(React+firebase)enthusiast|150+DSA @leetcode@gfg@CS</h3>
 
