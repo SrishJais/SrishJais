@@ -37,7 +37,9 @@
 
 -----
 🔥<ins>My Stats:</ins>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishjais&" alt="srishjais" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishjais&show_icons=true&locale=en" alt="srishjais" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishjais&" alt="srishjais" /> 
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srishjais&show_icons=true&locale=en" alt="srishjais" /></p>
 
 -----
   👨🏼‍💻<ins>Languages worked:</ins>
