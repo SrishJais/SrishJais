@@ -37,19 +37,19 @@
 
 -----
 <p>
-  🔥<ins>**My Stats:** </ins>
+  🔥<ins>My Stats:</ins>
 <p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srishjais&" alt="srishjais" /> &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=srishjais&show_icons=true&locale=en" alt="srishjais" /></p>
 </p>
 
 -----
 <p>
-  👨🏼‍💻<ins>**Languages worked:** </ins>
+  👨🏼‍💻<ins>Languages worked:</ins>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishjais&show_icons=true&locale=en&layout=compact" alt="srishjais" /></p>
 </p>
 
 -----
 <p>
-  🏆<ins>**GitHub Trophies:** </ins>
+  🏆<ins>GitHub Trophies:</ins>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishjais" alt="srishjais" /></a> </p>
 </p>
 
