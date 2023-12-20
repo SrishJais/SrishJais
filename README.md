@@ -29,6 +29,7 @@
 
 🎯<ins>**SOFT SKILLS:** </ins>
 - Self-motivated person having positive and never give up attitude,good team player
+
 -----
 
 🌐<ins>**Languages and Tools:** </ins>
@@ -40,7 +41,9 @@
 -----
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishjais&show_icons=true&locale=en&layout=compact" alt="srishjais" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishjais" alt="srishjais" /></a> </p>
+
 -----
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/srishti-jaiswal-b46468210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti-jaiswal-b46468210" height="30" width="40" /></a>
 📫 **srishtijais02@gmail.com**
