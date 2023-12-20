@@ -4,7 +4,6 @@
 <h3 align="center">FlipkartGrid 4.0 semifinalist | Ex-Martian intern @Persistent| Frontend(React+firebase)enthusiast|150+DSA @leetcode@gfg@CS</h3>
 
 **TECHNICAL SKILLS:**
-<h3>TECHNICAL SKILLS</h3>
 - **Web Technologies**: Javascript , HTML, CSS
 - **Web Libraries/framework**: ReactJS, Bootstrap, Material UI
 - **Back-End as a Service (BaaS)**: Firebase
