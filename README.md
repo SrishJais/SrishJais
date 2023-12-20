@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://github.com/SrishJais/SrishJais/blob/main/banner.jpg">
+  <img alt="Coding" width="100%" src="https://github.com/SrishJais/SrishJais/blob/main/banner.jpg">
 </p>
 
 -----
