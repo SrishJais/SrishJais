@@ -4,10 +4,8 @@
 <h3 align="center">FlipkartGrid 4.0 semifinalist | Ex-Martian intern @Persistent| Frontend(React+firebase)enthusiast|150+DSA @leetcode@gfg@CS</h3>
 
 🙋‍♂️<ins>**About Me:** </ins>
-- **Web Technologies**: Javascript , HTML, CSS
--A 4th year CSE Undegraduate student , persuing B.Tech at **Techno Main Saltlake**.
-
--**Flipkart Grid 4.0 semifinalist**,a front-end development enthusiast.
+- A 4th year CSE Undegraduate student , persuing B.Tech at **Techno Main Saltlake**.
+- **Flipkart Grid 4.0 semifinalist**,a front-end development enthusiast.
 -qualified for semi-final out of **146,127** participants of **Flipkart GRiD 4.0 - Software Development Challenge** for the problem statement- **Extract Trends from Social media data** with our team in which I contributed to the front-end part.
 -Have good problem solving skills with the ability to build efficient front end user interfaces and I want to apply my development skills in real life environment on the right platform to contribute something for the 
    welfare of mankind and ready to give my whole abilities for the company's growth that will also help me to learn new technologies and to get hands on learning in the development field.
