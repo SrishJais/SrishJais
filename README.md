@@ -2,7 +2,7 @@
 <img align="center" alt="Coding" width="400" src="https://github.com/SrishJais/SrishJais/blob/main/banner.jpg">
 <h1 align="center">Hi 👋, I'm Srishti Jaiswal</h1>
 <h3 align="center">FlipkartGrid 4.0 semifinalist | Ex-Martian intern @Persistent| Frontend(React+firebase)enthusiast|150+DSA @leetcode@gfg@CS</h3>
-
+-----
 🙋‍♂️<ins>**About Me:** </ins>
 - A 4th year CSE Undegraduate student , persuing B.Tech at **Techno Main Saltlake**.
 - **Flipkart Grid 4.0 semifinalist**,a front-end development enthusiast.
@@ -13,7 +13,7 @@
 -  **self-motivated** person having **positive and never give up attitude**.
 -  **Passion** - to solve real life problem using my skills and knowledge like through web app.
 -  Secured the **1st position** in **War of Convictions**,a **debate competition** in annual fest, **Safalya’21(for the motion)**.
-
+-----
 💻<ins>**TECHNICAL SKILLS:** </ins>
 - **Web Technologies**: Javascript , HTML, CSS
 - **Web Libraries/framework**: ReactJS, Bootstrap, Material UI
