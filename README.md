@@ -49,8 +49,8 @@
 
 -----
 
-🏆<ins>**Connect:** </ins>
+👥<ins>**Connect:** </ins>
 <p>
-  <a href="https://linkedin.com/in/srishti-jaiswal-b46468210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti-jaiswal-b46468210" height="30" width="40" /></a><a href="mailto:srishtijais02@gmail.com" target="blank" height="30" width="40" >📧</a>
+  <a href="https://linkedin.com/in/srishti-jaiswal-b46468210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti-jaiswal-b46468210" height="30" width="40" /></a><a href="mailto:srishtijais02@gmail.com" target="blank" height="60" width="60" >📧</a>
 </p>
 
