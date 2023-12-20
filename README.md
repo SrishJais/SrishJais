@@ -19,14 +19,14 @@
 
 🥇Secured the **1st position** in **War of Convictions**,a **debate competition** in annual fest, **Safalya’21(for the motion)**.
 
-**TECHNICAL SKILLS:**
+<ins>**TECHNICAL SKILLS:** </ins>
 - **Web Technologies**: Javascript , HTML, CSS
 - **Web Libraries/framework**: ReactJS, Bootstrap, Material UI
 - **Back-End as a Service (BaaS)**: Firebase
 - **Programming Languages**: C , C++, Javascript
 - **Coding:** Solved 100+ DSA questions on multiple online platforms including Leetcode, GeeksForGeeks, Code Studio.
 
-**SOFT SKILLS:**
+<ins>**SOFT SKILLS:** </ins>
 - Self-motivated person having positive and never give up attitude,good team player
 
 <h3 align="left">Languages and Tools:</h3>
