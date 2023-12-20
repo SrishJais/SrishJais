@@ -1,4 +1,4 @@
-![banner]([https://rishavchanda.io](https://media.licdn.com/dms/image/C5616AQGFwv79jeDtzg/profile-displaybackgroundimage-shrink_350_1400/0/1636387779793?e=1708560000&v=beta&t=FVJSL_fRoPSreKGTXYUGWioFoHLhs9hyOZ1j6Ns3W50))
+![banner](https://github.com/SrishJais/SrishJais/blob/main/banner.jpg))
 <h1 align="center">Hi 👋, I'm Srishti Jaiswal</h1>
 <h3 align="center">FlipkartGrid 4.0 semifinalist | Ex-Martian intern @Persistent| Frontend(React+firebase)enthusiast|150+DSA @leetcode@gfg@CS</h3>
 
