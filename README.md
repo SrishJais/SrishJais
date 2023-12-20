@@ -3,6 +3,19 @@
 <h1 align="center">Hi 👋, I'm Srishti Jaiswal</h1>
 <h3 align="center">FlipkartGrid 4.0 semifinalist | Ex-Martian intern @Persistent| Frontend(React+firebase)enthusiast|150+DSA @leetcode@gfg@CS</h3>
 
+🎓 A 4th year CSE Undegraduate student , persuing B.Tech at Techno Main Saltlake.
+
+👩 Flipkart Grid 4.0 semifinalist,a front-end development enthusiast.
+✅qualified for semi-final out of 146,127 participants of Flipkart GRiD 4.0 - Software Development Challenge for the problem statement- Extract Trends from Social media data with our team in which I contributed to the front-end part.
+
+💻Have good problem solving skills with the ability to build efficient front end user interfaces and I want to apply my development skills in real life environment on the right platform to contribute something for the welfare of mankind and ready to give my whole abilities for the company's growth that will also help me to learn new technologies and to get hands on learning in the development field.
+
+✅A self-motivated person having never give up attitude.
+
+👨‍💻Passion - to solve real life problem using my skills and knowledge like through web app.
+
+🥇Secured the 1st position in War of Convictions,a debate competition in annual fest, Safalya’21(for the motion).
+
 **TECHNICAL SKILLS:**
 - **Web Technologies**: Javascript , HTML, CSS
 - **Web Libraries/framework**: ReactJS, Bootstrap, Material UI
