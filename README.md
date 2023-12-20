@@ -54,8 +54,4 @@
 **srishtijais02@gmail.com**
 
                 <a 
-                class="contact-icons" href="mailto:srishtijais02@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>&nbsp;
-                
-                &nbsp;&nbsp;
-                <a  class="contact-icons" href="https://www.linkedin.com/in/srishti-jaiswal-b46468210/" >
-                     <i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                class="contact-icons" href="mailto:srishtijais02@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
