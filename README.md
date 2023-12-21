@@ -44,24 +44,24 @@
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 
 -----
-🔥<ins>My Stats:</ins>
+🔥 <ins>My Stats:</ins>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishjais&" alt="srishjais" /> 
   <br/>
    <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=srishjais&show_icons=true&locale=en" alt="srishjais" /></p>
 
 -----
-  👨🏼‍💻<ins>Languages worked:</ins>
+  👨🏼‍💻 <ins>Languages worked:</ins>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishjais&show_icons=true&locale=en&layout=compact" alt="srishjais" /></p>
 
 -----
 <p>
-  🏆<ins>GitHub Trophies:</ins>
+  🏆 <ins>GitHub Trophies:</ins>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishjais" alt="srishjais" /></a> </p>
 </p>
 
 -----
-👥<ins>**Connect:** </ins>
+👥 <ins>**Connect:** </ins>
 <br/>
 <p>
   <a href="https://linkedin.com/in/srishti-jaiswal-b46468210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti-jaiswal-b46468210" height="30" width="40" /></a><a href="mailto:srishtijais02@gmail.com" target="blank"><img align="center" src="https://github.com/SrishJais/SrishJais/blob/main/email.png" alt="srishtijais02@gmail.com" height="30" width="30" /></a>
