@@ -33,7 +33,7 @@
 
 -----
 
-🌐<ins>**Techstacks known:** </ins>
+🌐  <ins>**Techstacks known:** </ins>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -44,7 +44,7 @@
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 
 -----
-🔥 <ins>My Stats:</ins>
+🔥  <ins>My Stats:</ins>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishjais&" alt="srishjais" /> 
   <br/>
    <br/>
@@ -56,7 +56,7 @@
 
 -----
 <p>
-  🏆 <ins>GitHub Trophies:</ins>
+  🏆  <ins>GitHub Trophies:</ins>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishjais" alt="srishjais" /></a> </p>
 </p>
 
