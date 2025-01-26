@@ -10,7 +10,7 @@
 -----
 
 🙋‍♂️<ins>**About Me:** </ins>
-- A 4th year CSE Undegraduate student , persuing B.Tech at **Techno Main Saltlake**.
+- A 2024 CSE Undegraduate student , persuing B.Tech at **Techno Main Saltlake**.
 - **Flipkart Grid 4.0 semifinalist**,a front-end development enthusiast.
 - qualified for semi-final out of **146,127** participants of **Flipkart GRiD 4.0 - Software Development Challenge** for the problem statement- **Extract Trends from Social media data** with our team in which I 
   contributed to the front-end part.
