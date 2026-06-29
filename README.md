@@ -10,7 +10,7 @@
 -----
 
 🙋‍♂️<ins>**About Me:** </ins>
-- **System Engineer** at TCS ,a Frontend (React) enthusiast.
+- **System Engineer** at TCS ,a Frontend (React) enthusiast. Awarded the TCS **On the Spot Award** for outstanding con- tributions to frontend development, successful delivery of Ad- min and colleague-facing screens, and eﬀective collaboration with UX designers and cross-functional teams.
 - **Flipkart Grid 4.0 semifinalist**,qualified for semi-final out of **146,127** participants of **Flipkart GRiD 4.0 - Software Development Challenge** for the problem statement- **Extract Trends from Social media data** with our team in which I contributed to the front-end part.
 - Our team secured a spot in the **top 10 finalist teams** and also earned a position among the finalist teams for the AltMobility problem statement: **Build a Scalable Real-Time Vehicle Alert System.** 🚗 at the grand finale of the **Chhalaang 3.0**,an India’s largest women-only hackathon, hosted by **MetaMorph**,in which I contributed to the frontend part for making the dashboard using chart.js,react, bootstrap.
 - Have good problem solving skills with the ability to build efficient front end user interfaces and I want to apply my development skills in real life environment on the right platform to contribute something for the welfare of mankind and ready to give my whole abilities for the company's growth that will also help me to learn new technologies and to get hands on learning in the development field.
