@@ -20,10 +20,12 @@
 -----
 
 💻<ins>**TECHNICAL SKILLS:** </ins>
-- **Web Technologies**: Javascript , HTML, CSS
-- **Web Libraries/framework**: ReactJS, Bootstrap, Material UI
+- **Web Technologies**: ReactJS, Next.js(frontend), Typescript,Javascript, Bootstrap, Material UI. Tail-
+wind CSS , HTML, CSS
+- **State Management & API**: Redux Toolkit, RTK Query
 - **Back-End as a Service (BaaS)**: Firebase
 - **Programming Languages**: C , C++, Javascript
+- **Developer Tools**: Microsoft Copilot
 - **Coding:** Solved 100+ DSA questions on multiple online platforms including Leetcode, GeeksForGeeks, Code Studio.
 
 🎯<ins>**SOFT SKILLS:** </ins>
