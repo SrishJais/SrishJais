@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Srishti Jaiswal</h1>
 
-<h3 align="center">SE(Frontend dev) ~2YOE @Tcs| Chhalaang 3.0(Top10)finalist|FlipkartGrid 4.0 semifinalist| Ai agents enthusiast</h3>
+<h3 align="center">SE(Frontend developer) ~2YOE @Tcs | Chhalaang 3.0(Top10)finalist | FlipkartGrid 4.0 semifinalist | Ai agents enthusiast</h3>
 
 -----
 
