@@ -33,26 +33,26 @@
 -----
 
 💻<ins>**Work Experience:** </ins>
-• Developed responsive, reusable, and pixel-perfect UI
+- Developed responsive, reusable, and pixel-perfect UI
 components from scratch by converting Figma designs
 into code using React.js and Next.js in an Agile environment for MyDiscount, a UK client’s discount event management application, serving 150,000+ colleagues.
 
-• Developed Admin Management, discount event listing
+- Developed Admin Management, discount event listing
 and detail pages, and colleague-facing Discount Card
 Activation workflows.
 
-• Integrated frontend UI with backend APIs using RTK
+- Integrated frontend UI with backend APIs using RTK
 Query and implemented debounced colleague search
 to reduce unnecessary API requests for performance
 optimization.
 
-• Implemented autosave functionality in textarea of meet- ing notes for Consultation Tool application using interval based approach to avoid sudden loss of written long con- tent in the textarea after session expired.
+- Implemented autosave functionality in textarea of meet- ing notes for Consultation Tool application using interval based approach to avoid sudden loss of written long con- tent in the textarea after session expired.
 
-• Conducted code reviews, provided constructive feed- back, and collaborated with UX designers, senior engi- neers, and cross-functional teams during story reﬁne- ment, brainstorming sessions, and sprint planning to en- sure code quality and adherence to best practices. 
+- Conducted code reviews, provided constructive feed- back, and collaborated with UX designers, senior engi- neers, and cross-functional teams during story reﬁne- ment, brainstorming sessions, and sprint planning to en- sure code quality and adherence to best practices. 
 
-• Leveraged Microsoft Copilot, an AI-powered develop- ment tool and and custom AI agents to accelerate software development, stream- line engineering workﬂows, and enhance engineering productivity and to write unit tests using Jest.
+- Leveraged Microsoft Copilot, an AI-powered develop- ment tool and and custom AI agents to accelerate software development, stream- line engineering workﬂows, and enhance engineering productivity and to write unit tests using Jest.
 
-• Integrated custom MCP-based AI agents with Next.js using Skills, Agents, and an MCP Server, leveraging GitHub Copilot in VS Code to streamline and automate development workflows
+- Integrated custom MCP-based AI agents with Next.js using Skills, Agents, and an MCP Server, leveraging GitHub Copilot in VS Code to streamline and automate development workflows
 
 -----
 
